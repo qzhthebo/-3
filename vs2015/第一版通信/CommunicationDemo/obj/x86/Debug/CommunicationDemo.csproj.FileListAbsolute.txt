@@ -1,0 +1,19 @@
+F:\VS Project\CommunicationDemo\CommunicationDemo\bin\Debug\CommunicationDemo.exe
+F:\VS Project\CommunicationDemo\CommunicationDemo\bin\Debug\CommunicationDemo.pdb
+F:\VS Project\CommunicationDemo\CommunicationDemo\bin\Debug\Communication.dll
+F:\VS Project\CommunicationDemo\CommunicationDemo\bin\Debug\Communication.pdb
+F:\VS Project\CommunicationDemo\CommunicationDemo\obj\x86\Debug\CommunicationDemo.csprojResolveAssemblyReference.cache
+F:\VS Project\CommunicationDemo\CommunicationDemo\obj\x86\Debug\CommunicationDemo.Form1.resources
+F:\VS Project\CommunicationDemo\CommunicationDemo\obj\x86\Debug\CommunicationDemo.Properties.Resources.resources
+F:\VS Project\CommunicationDemo\CommunicationDemo\obj\x86\Debug\CommunicationDemo.csproj.GenerateResource.Cache
+F:\VS Project\CommunicationDemo\CommunicationDemo\obj\x86\Debug\CommunicationDemo.exe
+F:\VS Project\CommunicationDemo\CommunicationDemo\obj\x86\Debug\CommunicationDemo.pdb
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\obj\x86\Debug\CommunicationDemo.exe
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\obj\x86\Debug\CommunicationDemo.pdb
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\bin\Debug\CommunicationDemo.exe
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\bin\Debug\CommunicationDemo.pdb
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\bin\Debug\Communication.pdb
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\obj\x86\Debug\CommunicationDemo.csprojResolveAssemblyReference.cache
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\obj\x86\Debug\CommunicationDemo.Form1.resources
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\obj\x86\Debug\CommunicationDemo.Properties.Resources.resources
+E:\旧电脑\需保存的\STm32报告\[2018-09-01]_[C#]_Communication组件使用说明(V1.0)\[1]_组件与示例工程源代码\UIDLinkDemo\UIDDemo1\CommunicationDemo\obj\x86\Debug\CommunicationDemo.csproj.GenerateResource.Cache
